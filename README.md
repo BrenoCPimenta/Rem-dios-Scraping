@@ -11,4 +11,13 @@ A primeira vez que o programa é executado cria-se um arquivo com os descontos d
 
 ---
 ### Como executar o Programa:
+1. É necessário ter java instalado em sua máquina e estar conectado à internet.
+2. Baixe a pasta _/exec_ e execute o arquivo **exec_remedios**.
 
+---
+### Bibliotecas Externas:
+* **JSOUP:** Uma biblioteca para web-scraping que utiliza 'selector-syntax' para a escolha de elementos.
+* **JUnit4:** Biblioteca utilizada para testes.
+
+---
+### Estrutura do Projeto:
