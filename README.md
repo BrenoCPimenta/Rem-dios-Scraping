@@ -1,7 +1,7 @@
 # Remédios Scraping
 A [Ultra Farma](https://www.ultrafarma.com.br/) possui um dos maiores e-commerces do país quando se trata de medicação.
 <br>E todos os dias eles disponibilizam novos descontos.
-<br>Este é composto por um web-scraper que vai até a página de descontos especiais da Ultra Farma e os catalóga em um arquivo csv, como no formato abaixo:
+<br>Este projeto é composto por um web-scraper que vai até a página de descontos especiais da Ultra Farma e os catalóga em um arquivo csv, como no formato abaixo:
 
 |Remedio|PrecoVenda(R$)|Desconto(%)|DataBusca|
 |--------|--------------|--------------|------------|
