@@ -1,6 +1,6 @@
 # Remédios Scraping
 A [Ultra Farma](https://www.ultrafarma.com.br/) possui um dos maiores e-commerces do país quando se trata de medicação.
-<br>Dentro do site pode-se realizar várias buscas, tanto por preço como por tipo de remédio.
+<br>Dentro do site pode-se realizar várias buscas, tanto por preço, como por tipo de remédio.
 <br>Este projeto é composto por um web-scraper que recebe uma URL da página da Ultra Farma e busca o nome dos produtos, os preços, o tamanho dos descontos dados e a data da pesquisa, depois armazena todas essas informações em um arquivo csv, como no formato abaixo:
 
 |Remedio|PrecoVenda(R$)|Desconto(%)|DataBusca|
